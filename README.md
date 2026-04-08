@@ -101,7 +101,7 @@ Lost (sim)     : 3
 
 All 7 delivered despite 30% loss rate. Retransmission working correctly.
 
-![Both terminals output](results/output.png)
+![Both terminals output](result.png)
 
 ## What I learned
 
