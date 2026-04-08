@@ -51,8 +51,7 @@ reliable-udp/
 ├── packet.h       # packet struct, serialize, deserialize, checksum
 ├── sender.c       # sends packets, handles timeout + retransmission
 ├── receiver.c     # receives packets, verifies checksum, sends ACKs
-├── results/
-│   └── results.png # both terminals running side by side
+├── results.png
 └── README.md
 ```
 
